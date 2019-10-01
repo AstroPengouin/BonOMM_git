@@ -1,0 +1,145 @@
+[Package Name]
+Name=oglib_labpython
+Version=1.2
+Release=1
+
+[Description]
+Description="The LabPython package contains several routines for interfacing to Python."
+Summary="OpenG LabPython Tools"
+License=LGPL
+Copyright="2002 - 2007 Okko Willeboordse, Jim Kring, Rolf Kalbermatter"
+Distribution="OpenG Toolkit"
+Icon=labpython.bmp
+Vendor=OpenG.org
+URL=http://openg.org/labpython
+Packager="Jim Kring <jim@jimkring.com>"
+
+[Platform]
+Exclusive_LabVIEW_Version=>=6.1
+Exclusive_LabVIEW_System=All
+Exclusive_OS=All
+
+[Script VIs]
+Source Dir=""
+PreInstall=""
+PostInstall=""
+PreUninstall=""
+PostUninstall=""
+Verify=""
+PreBuild=""
+PostBuild=""
+
+[Dependencies]
+AutoReqProv=FALSE
+Requires=ogrsc_dynamicpalette>=2.0
+Conflicts=""
+
+[Files]
+Num File Groups=9
+
+[File Group 0]
+Source Dir=built/labpython
+Target Dir=<OpenG.lib>/labpython
+Replace Mode=Always
+Num Files=1
+File 0=readme.txt
+
+[File Group 1]
+Source Dir=built/labpython/labpython.llb
+Target Dir=<OpenG.lib>/labpython/labpython.llb
+Replace Mode=Always
+Num Files=38
+File 0="PYTHON Close Session__ogtk.vi"
+File 1="PYTHON Compile Script__ogtk.vi"
+File 2="PYTHON Execute Script__ogtk.vi"
+File 3="PYTHON Get Boolean Data__ogtk.vi"
+File 4="PYTHON Get Complex Data__ogtk.vi"
+File 5="PYTHON Get Complex Matrix__ogtk.vi"
+File 6="PYTHON Get Complex Vector__ogtk.vi"
+File 7="PYTHON Get Data__ogtk.vi"
+File 8="PYTHON Get Float Data__ogtk.vi"
+File 9="PYTHON Get Float Matrix__ogtk.vi"
+File 10="PYTHON Get Float Vector__ogtk.vi"
+File 11="PYTHON Get Integer Data__ogtk.vi"
+File 12="PYTHON Get Integer Matrix__ogtk.vi"
+File 13="PYTHON Get Integer Vector__ogtk.vi"
+File 14="PYTHON Get String Data__ogtk.vi"
+File 15="PYTHON Get String Vector__ogtk.vi"
+File 16="PYTHON Get Variables__ogtk.vi"
+File 17="PYTHON Get Version and Types__ogtk.vi"
+File 18="PYTHON New Session__ogtk.vi"
+File 19="PYTHON Script Node__ogtk.vi"
+File 20="PYTHON Set Boolean Data__ogtk.vi"
+File 21="PYTHON Set Complex Data__ogtk.vi"
+File 22="PYTHON Set Complex Matrix__ogtk.vi"
+File 23="PYTHON Set Complex Vector__ogtk.vi"
+File 24="PYTHON Set Data__ogtk.vi"
+File 25="PYTHON Set Float Data__ogtk.vi"
+File 26="PYTHON Set Float Matrix__ogtk.vi"
+File 27="PYTHON Set Float Vector__ogtk.vi"
+File 28="PYTHON Set Integer Data__ogtk.vi"
+File 29="PYTHON Set Integer Matrix__ogtk.vi"
+File 30="PYTHON Set Integer Vector__ogtk.vi"
+File 31="PYTHON Set Script Text__ogtk.vi"
+File 32="PYTHON Set Server Path__ogtk.vi"
+File 33="PYTHON Set String Data__ogtk.vi"
+File 34="PYTHON Set String Vector__ogtk.vi"
+File 35="PYTHON UTIL Format Error Code__ogtk.vi"
+File 36="PYTHON VI Tree__ogtk.vi"
+File 37="Python Session Refnum__ogtk.ctl"
+
+[File Group 2]
+Source Dir=built/labpython/examples
+Target Dir=<application>/examples/labpython
+Replace Mode=Always
+Num Files=3
+File 0="PYTHON Array Example__ogtk.vi"
+File 1="PYTHON Symple Execute__ogtk.vi"
+File 2="PYTHON Test Script Node__ogtk.vi"
+
+[File Group 3]
+Source Dir=built/labpython
+Target Dir=<OpenG.lib>/labpython
+Replace Mode=Always
+Exclusive_OS="Windows NT,Windows 9x"
+Num Files=1
+File 0=lvpython.dll
+
+[File Group 4]
+Source Dir=built/labpython
+Target Dir=<OpenG.lib>/labpython
+Replace Mode=Always
+Exclusive_OS=Linux
+Num Files=1
+File 0=lvpython.so
+
+[File Group 5]
+Source Dir=built/labpython
+Target Dir=<resource>/script
+Replace Mode=Always
+Exclusive_OS="Windows NT,Windows 9x"
+Num Files=1
+File 0=pytscript.dll
+
+[File Group 6]
+Source Dir=built/labpython
+Target Dir=<resource>/script
+Replace Mode=Always
+Exclusive_OS=Linux
+Num Files=1
+File 0=pytscript.so
+
+[File Group 7]
+Source Dir="Dynamic Palette MNUs"
+Target Dir=<user.lib>/_dynamicpalette_dirs/comm
+Replace Mode=Always
+Num Files=1
+File 0=oglib_labpython.mnu
+
+[File Group 8]
+Source Dir="Dynamic Palette MNUs"
+Target Dir=<user.lib>/_dynamicpalette_dirs/OpenG
+Replace Mode=Always
+Num Files=1
+File 0=oglib_labpython.mnu
+

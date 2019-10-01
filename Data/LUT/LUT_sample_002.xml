@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AlignementCorrectionLookupTable>
+
+  <Point>
+    <Azimuth>0.000000</Azimuth>
+    <Elevation>0.000000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.583100</Azimuth>
+    <Elevation>0.622700</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.706100</Azimuth>
+    <Elevation>0.707300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.625300</Azimuth>
+    <Elevation>0.587900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.366600</Azimuth>
+    <Elevation>0.343500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.024900</Azimuth>
+    <Elevation>-0.025900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.323600</Azimuth>
+    <Elevation>-0.340500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.876500</Azimuth>
+    <Elevation>-0.005000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.999700</Azimuth>
+    <Elevation>-0.012200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.863300</Azimuth>
+    <Elevation>0.006300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.523500</Azimuth>
+    <Elevation>0.013400</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.008500</Azimuth>
+    <Elevation>0.000300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.484500</Azimuth>
+    <Elevation>-0.017700</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.621100</Azimuth>
+    <Elevation>-0.579800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.728600</Azimuth>
+    <Elevation>-0.684500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.617000</Azimuth>
+    <Elevation>-0.582100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.372200</Azimuth>
+    <Elevation>-0.380200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.015800</Azimuth>
+    <Elevation>-0.016000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.342100</Azimuth>
+    <Elevation>0.316300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.032500</Azimuth>
+    <Elevation>-0.862900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.019900</Azimuth>
+    <Elevation>-0.998900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.017600</Azimuth>
+    <Elevation>-0.848000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.019900</Azimuth>
+    <Elevation>-0.522400</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.001100</Azimuth>
+    <Elevation>-0.035500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.018400</Azimuth>
+    <Elevation>0.485000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.636300</Azimuth>
+    <Elevation>-0.584600</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.728500</Azimuth>
+    <Elevation>-0.684200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.611200</Azimuth>
+    <Elevation>-0.581500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.362900</Azimuth>
+    <Elevation>-0.362100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.012100</Azimuth>
+    <Elevation>-0.012900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.327000</Azimuth>
+    <Elevation>0.332800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.856700</Azimuth>
+    <Elevation>-0.027400</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.998400</Azimuth>
+    <Elevation>-0.040900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.865200</Azimuth>
+    <Elevation>0.033200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.480000</Azimuth>
+    <Elevation>-0.008300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.011400</Azimuth>
+    <Elevation>0.000200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.468600</Azimuth>
+    <Elevation>0.006800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.600800</Azimuth>
+    <Elevation>0.597300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.697700</Azimuth>
+    <Elevation>0.716000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.623800</Azimuth>
+    <Elevation>0.574100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.341100</Azimuth>
+    <Elevation>0.362100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.024000</Azimuth>
+    <Elevation>0.024200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.359200</Azimuth>
+    <Elevation>-0.382100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.011400</Azimuth>
+    <Elevation>0.858800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.004700</Azimuth>
+    <Elevation>0.999800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.033300</Azimuth>
+    <Elevation>0.854400</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.015100</Azimuth>
+    <Elevation>0.536300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.000600</Azimuth>
+    <Elevation>0.039400</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.007600</Azimuth>
+    <Elevation>-0.512600</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.636600</Azimuth>
+    <Elevation>0.593800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.683200</Azimuth>
+    <Elevation>0.730300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.630400</Azimuth>
+    <Elevation>0.578800</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.343600</Azimuth>
+    <Elevation>0.341200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.017700</Azimuth>
+    <Elevation>-0.017000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.356700</Azimuth>
+    <Elevation>-0.326900</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.874200</Azimuth>
+    <Elevation>0.016200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-1.000000</Azimuth>
+    <Elevation>0.007500</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.870500</Azimuth>
+    <Elevation>0.002700</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.532600</Azimuth>
+    <Elevation>-0.012300</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.024400</Azimuth>
+    <Elevation>0.000700</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.487400</Azimuth>
+    <Elevation>-0.017000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.632700</Azimuth>
+    <Elevation>-0.598100</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.715600</Azimuth>
+    <Elevation>-0.698200</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.647900</Azimuth>
+    <Elevation>-0.599600</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>-0.372500</Azimuth>
+    <Elevation>-0.374000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.003100</Azimuth>
+    <Elevation>0.003000</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+  <Point>
+    <Azimuth>0.362600</Azimuth>
+    <Elevation>0.342600</Elevation>
+    <HexapodX>0.000000</HexapodX>
+    <HexapodY>0.000000</HexapodY>
+    <HexapodZ>0.000000</HexapodZ>
+  </Point>
+
+</AlignementCorrectionLookupTable>

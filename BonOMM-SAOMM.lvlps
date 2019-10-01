@@ -1,0 +1,47 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "597,868,997,1240"
+
+[AB_Cache_{A7BFD02E-88E6-432D-B6DC-024C9C28E0F8}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5ac882eea232cb480f2d64ea166c723d"
+Cache_GenFile_Count[Integer] = 7
+Cache_GenFile[0][Path] = "/C/BonOMM/Builds/BonOMM.exe"
+Cache_GenFile[1][Path] = "/C/BonOMM/Builds/BonOMM.aliases"
+Cache_GenFile[2][Path] = "/C/BonOMM/Builds/BonOMM.ini"
+Cache_GenFile[3][Path] = "/C/BonOMM/Builds/data/cfitsio.dll"
+Cache_GenFile[4][Path] = "/C/BonOMM/Builds/data/gfitsio.dll"
+Cache_GenFile[5][Path] = "/C/BonOMM/Builds/data/lvanlys.dll"
+Cache_GenFile[6][Path] = "/C/BonOMM/Builds/data/gfitsio.chm"
+Cache_GenGUID_Count[Integer] = 7
+Cache_GenGUID[0][String] = "{5C0DC8BD-631C-4A86-9B0F-4679A82E1E10}"
+Cache_GenGUID[1][String] = "{5A12309F-7E8A-43A7-865E-B16544F3A539}"
+Cache_GenGUID[2][String] = "{8D510AD3-5513-4810-BECA-2AED358733BC}"
+Cache_GenGUID[3][String] = "{8E34016D-7481-4946-9DCD-E6FD400BEE6B}"
+Cache_GenGUID[4][String] = "{C1209A9E-E2B8-42EE-A13A-8B63656F99E6}"
+Cache_GenGUID[5][String] = ""
+Cache_GenGUID[6][String] = ""
+Cache_OutputDir[Path] = "/C/BonOMM/Builds"
+
+[AB_Cache_{85CCF366-ED82-4F95-BBB2-9DAE56DFBB8B}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "5ac882eea232cb480f2d64ea166c723d"
+Cache_GenFile_Count[Integer] = 7
+Cache_GenFile[0][Path] = "/C/BonOMM/Builds/BonOMM.exe"
+Cache_GenFile[1][Path] = "/C/BonOMM/Builds/BonOMM.aliases"
+Cache_GenFile[2][Path] = "/C/BonOMM/Builds/BonOMM.ini"
+Cache_GenFile[3][Path] = "/C/BonOMM/Builds/data/cfitsio.dll"
+Cache_GenFile[4][Path] = "/C/BonOMM/Builds/data/gfitsio.dll"
+Cache_GenFile[5][Path] = "/C/BonOMM/Builds/data/lvanlys.dll"
+Cache_GenFile[6][Path] = "/C/BonOMM/Builds/data/gfitsio.chm"
+Cache_GenGUID_Count[Integer] = 7
+Cache_GenGUID[0][String] = "{5C0DC8BD-631C-4A86-9B0F-4679A82E1E10}"
+Cache_GenGUID[1][String] = "{5A12309F-7E8A-43A7-865E-B16544F3A539}"
+Cache_GenGUID[2][String] = "{8D510AD3-5513-4810-BECA-2AED358733BC}"
+Cache_GenGUID[3][String] = "{8E34016D-7481-4946-9DCD-E6FD400BEE6B}"
+Cache_GenGUID[4][String] = "{C1209A9E-E2B8-42EE-A13A-8B63656F99E6}"
+Cache_GenGUID[5][String] = ""
+Cache_GenGUID[6][String] = ""
+Cache_OutputDir[Path] = "/C/BonOMM/Builds"
+
