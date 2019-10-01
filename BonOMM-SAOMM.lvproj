@@ -258,7 +258,7 @@
 			<Item Name="LogRelayData.vi" Type="VI" URL="../SubVIs/data_logging/LogRelayData.vi"/>
 			<Item Name="LogRelayError.vi" Type="VI" URL="../SubVIs/data_logging/LogRelayError.vi"/>
 			<Item Name="LogSourceData.vi" Type="VI" URL="../SubVIs/data_logging/LogSourceData.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
 			<Item Name="Max-iteration.vi" Type="VI" URL="../SubVIs/Misc/Max-iteration.vi"/>
 			<Item Name="MaxWait.vi" Type="VI" URL="../SubVIs/Misc/MaxWait.vi"/>
 			<Item Name="MC-BonOMM_talker.vi" Type="VI" URL="../SubVIs/Comm/MC-BonOMM_talker.vi"/>
@@ -311,7 +311,7 @@
 			<Item Name="QueryUSNO.vi" Type="VI" URL="../SubVIs/Connectivity/QueryUSNO.vi"/>
 			<Item Name="Rad2deg.vi" Type="VI" URL="../SubVIs/coords/Rad2deg.vi"/>
 			<Item Name="RaFMenuFixer.vi" Type="VI" URL="../SubVIs/Misc/RaFMenuFixer.vi"/>
-			<Item Name="Read Characters From File (no popup).vi" Type="VI" URL="../SubVIs/vi.lib/Read Characters From File (no popup).vi"/>
+			<Item Name="Read Characters From File (no popup).vi" Type="VI" URL="../SubVIs/vi_lib/Read Characters From File (no popup).vi"/>
 			<Item Name="Read-LVDT-Data.vi" Type="VI" URL="../SubVIs/data_logging/Read-LVDT-Data.vi"/>
 			<Item Name="Read_N_Args.vi" Type="VI" URL="../SubVIs/Comm/Read_N_Args.vi"/>
 			<Item Name="Read_obs_files.vi" Type="VI" URL="../SubVIs/data_logging/Read_obs_files.vi"/>
@@ -373,6 +373,7 @@
 			<Item Name="TERMINAL.vi" Type="VI" URL="../SubVIs/GUI/TERMINAL.vi"/>
 			<Item Name="TEST-SAOMM-OffsetGUI.vi" Type="VI" URL="../SubVIs/VIs test/TEST-SAOMM-OffsetGUI.vi"/>
 			<Item Name="TEST-SAOMM-PositionGUI.vi" Type="VI" URL="../SubVIs/VIs test/TEST-SAOMM-PositionGUI.vi"/>
+			<Item Name="Test_telecommande.vi" Type="VI" URL="../SubVIs/GUI/Test_telecommande.vi"/>
 			<Item Name="time-sec-to-radian.vi" Type="VI" URL="../SubVIs/coords/time-sec-to-radian.vi"/>
 			<Item Name="time-sec-to-time-str-DEC.vi" Type="VI" URL="../SubVIs/coords/time-sec-to-time-str-DEC.vi"/>
 			<Item Name="time-sec-to-time-str-RA.vi" Type="VI" URL="../SubVIs/coords/time-sec-to-time-str-RA.vi"/>
@@ -394,6 +395,7 @@
 			<Item Name="wcssph2xy.vi" Type="VI" URL="../SubVIs/coords/wcssph2xy.vi"/>
 			<Item Name="wcsxy2sph.vi" Type="VI" URL="../SubVIs/coords/wcsxy2sph.vi"/>
 			<Item Name="Write Characters To File (no popup).vi" Type="VI" URL="../SubVIs/vi.lib/Write Characters To File (no popup).vi"/>
+			<Item Name="Write Characters To File (no popup).vi" Type="VI" URL="../SubVIs/vi_lib/Write Characters To File (no popup).vi"/>
 			<Item Name="write_focus_file.vi" Type="VI" URL="../SubVIs/data_logging/write_focus_file.vi"/>
 			<Item Name="WriteFalconProcessed.vi" Type="VI" URL="../SubVIs/data_logging/WriteFalconProcessed.vi"/>
 			<Item Name="xy2ad.vi" Type="VI" URL="../SubVIs/coords/xy2ad.vi"/>
