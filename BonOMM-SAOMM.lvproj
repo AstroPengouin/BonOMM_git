@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="11008008">
+<Project Type="Project" LVVersion="19008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -101,7 +101,7 @@
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
-				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
+				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
@@ -258,7 +258,7 @@
 			<Item Name="LogRelayData.vi" Type="VI" URL="../SubVIs/data_logging/LogRelayData.vi"/>
 			<Item Name="LogRelayError.vi" Type="VI" URL="../SubVIs/data_logging/LogRelayError.vi"/>
 			<Item Name="LogSourceData.vi" Type="VI" URL="../SubVIs/data_logging/LogSourceData.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Max-iteration.vi" Type="VI" URL="../SubVIs/Misc/Max-iteration.vi"/>
 			<Item Name="MaxWait.vi" Type="VI" URL="../SubVIs/Misc/MaxWait.vi"/>
 			<Item Name="MC-BonOMM_talker.vi" Type="VI" URL="../SubVIs/Comm/MC-BonOMM_talker.vi"/>
@@ -405,6 +405,7 @@
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{5A12309F-7E8A-43A7-865E-B16544F3A539}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{8D510AD3-5513-4810-BECA-2AED358733BC}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{A7BFD02E-88E6-432D-B6DC-024C9C28E0F8}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">BonOMM</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -416,6 +417,7 @@
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguage[1]" Type="Str">French</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">2</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">BonOMM.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../BonOMM.exe/BonOMM.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -439,7 +441,6 @@
 				<Property Name="SourceCount" Type="Int">4</Property>
 				<Property Name="TgtF_companyName" Type="Str">Observatoire du mont Mégantic</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">BonOMM</Property>
-				<Property Name="TgtF_fileVersion.minor" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">BonOMM</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 </Property>
 				<Property Name="TgtF_productName" Type="Str">BonOMM</Property>
