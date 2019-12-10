@@ -371,6 +371,7 @@
 			<Item Name="TCP-read.vi" Type="VI" URL="../SubVIs/Comm/TCP-read.vi"/>
 			<Item Name="TCS-Wait4Flag.vi" Type="VI" URL="../SubVIs/Comm/TCS-Wait4Flag.vi"/>
 			<Item Name="TERMINAL.vi" Type="VI" URL="../SubVIs/GUI/TERMINAL.vi"/>
+			<Item Name="TEST-SAOMM-Externaloffset.vi" Type="VI" URL="../SubVIs/VIs test/TEST-SAOMM-Externaloffset.vi"/>
 			<Item Name="TEST-SAOMM-OffsetGUI.vi" Type="VI" URL="../SubVIs/VIs test/TEST-SAOMM-OffsetGUI.vi"/>
 			<Item Name="TEST-SAOMM-PositionGUI.vi" Type="VI" URL="../SubVIs/VIs test/TEST-SAOMM-PositionGUI.vi"/>
 			<Item Name="Test_telecommande.vi" Type="VI" URL="../SubVIs/GUI/Test_telecommande.vi"/>
