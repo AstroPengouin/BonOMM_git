@@ -13,8 +13,44 @@
 		<Item Name="BonOMM-SAOMM.Test.vi" Type="VI" URL="../BonOMM-SAOMM.Test.vi"/>
 		<Item Name="BonOMM-SAOMM.vi" Type="VI" URL="../BonOMM-SAOMM.vi"/>
 		<Item Name="cfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/cfitsio.dll"/>
+		<Item Name="Est" Type="NI-DAQmx Task">
+			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
+			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
+			<Property Name="\0\Name" Type="Str">Est/SortieNumérique</Property>
+			<Property Name="\0\PhysicalChanName" Type="Str">Dev1/port0/line0</Property>
+			<Property Name="Channels" Type="Str">Est/SortieNumérique</Property>
+			<Property Name="Name" Type="Str">Est</Property>
+			<Property Name="SampTimingType" Type="Str">On Demand</Property>
+		</Item>
 		<Item Name="favicon.ico" Type="Document" URL="../favicon.ico"/>
 		<Item Name="gfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/gfitsio.dll"/>
+		<Item Name="Nord" Type="NI-DAQmx Task">
+			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
+			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
+			<Property Name="\0\Name" Type="Str">Nord/SortieNumérique</Property>
+			<Property Name="\0\PhysicalChanName" Type="Str">Dev1/port0/line2</Property>
+			<Property Name="Channels" Type="Str">Nord/SortieNumérique</Property>
+			<Property Name="Name" Type="Str">Nord</Property>
+			<Property Name="SampTimingType" Type="Str">On Demand</Property>
+		</Item>
+		<Item Name="Ouest" Type="NI-DAQmx Task">
+			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
+			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
+			<Property Name="\0\Name" Type="Str">Ouest/SortieNumérique</Property>
+			<Property Name="\0\PhysicalChanName" Type="Str">Dev1/port0/line3</Property>
+			<Property Name="Channels" Type="Str">Ouest/SortieNumérique</Property>
+			<Property Name="Name" Type="Str">Ouest</Property>
+			<Property Name="SampTimingType" Type="Str">On Demand</Property>
+		</Item>
+		<Item Name="Sud" Type="NI-DAQmx Task">
+			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
+			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
+			<Property Name="\0\Name" Type="Str">Sud/SortieNumérique</Property>
+			<Property Name="\0\PhysicalChanName" Type="Str">Dev1/port0/line1</Property>
+			<Property Name="Channels" Type="Str">Sud/SortieNumérique</Property>
+			<Property Name="Name" Type="Str">Sud</Property>
+			<Property Name="SampTimingType" Type="Str">On Demand</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
