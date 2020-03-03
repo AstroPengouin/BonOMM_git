@@ -24,6 +24,7 @@
 		</Item>
 		<Item Name="favicon.ico" Type="Document" URL="../favicon.ico"/>
 		<Item Name="gfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/gfitsio.dll"/>
+		<Item Name="msg_box.vi" Type="VI" URL="../SubVIs/Misc/msg_box.vi"/>
 		<Item Name="Nord" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
 			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
