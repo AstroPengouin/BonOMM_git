@@ -46,5 +46,5 @@ Cache_GenGUID[6][String] = ""
 Cache_OutputDir[Path] = "/C/BonOMM/Builds"
 
 [FenêtreProjet_Données]
-ProjectExplorer.ClassicPosition[String] = "111,651,910,997"
+ProjectExplorer.ClassicPosition[String] = "119,1175,1014,1688"
 
