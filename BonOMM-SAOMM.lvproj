@@ -53,6 +53,9 @@
 			<Property Name="SampTimingType" Type="Str">On Demand</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="KELLER RS485 Library.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_KELLER RS485 Library/KELLER RS485 Library.lvlib"/>
+			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
