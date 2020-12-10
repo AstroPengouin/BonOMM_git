@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="BonOMM-SAOMM.Test.vi" Type="VI" URL="../BonOMM-SAOMM.Test.vi"/>
 		<Item Name="BonOMM-SAOMM.vi" Type="VI" URL="../BonOMM-SAOMM.vi"/>
 		<Item Name="cfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/cfitsio.dll"/>
 		<Item Name="Est" Type="NI-DAQmx Task">
@@ -278,12 +277,10 @@
 			<Item Name="draw_field.vi" Type="VI" URL="../SubVIs/VIs test/draw_field.vi"/>
 			<Item Name="Draw_graph_background.vi" Type="VI" URL="../SubVIs/GUI/Draw_graph_background.vi"/>
 			<Item Name="Draw_star.vi" Type="VI" URL="../SubVIs/GUI/Draw_star.vi"/>
-			<Item Name="EnqueueEvents.vi" Type="VI" URL="../SubVIs/Event/EnqueueEvents.vi"/>
 			<Item Name="Enregistrement des parametres.vi" Type="VI" URL="../SubVIs/GUI/Enregistrement des parametres.vi"/>
 			<Item Name="Error_Format.vi" Type="VI" URL="../SubVIs/Misc/Error_Format.vi"/>
 			<Item Name="ETAB_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETAB_decodeur.vi"/>
 			<Item Name="ETCS_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETCS_decodeur.vi"/>
-			<Item Name="event.ctl" Type="VI" URL="../SubVIs/Event/event.ctl"/>
 			<Item Name="ExceptionStacker.vi" Type="VI" URL="../SubVIs/Newmark/ExceptionStacker.vi"/>
 			<Item Name="EXCOM-25-EQ.vi" Type="VI" URL="../SubVIs/Comm/EXCOM-25-EQ.vi"/>
 			<Item Name="EXCOM-26.vi" Type="VI" URL="../SubVIs/Comm/EXCOM-26.vi"/>
@@ -316,7 +313,6 @@
 			<Item Name="GetUTC.vi" Type="VI" URL="../SubVIs/Misc/GetUTC.vi"/>
 			<Item Name="gfitsio-refnum.ctl" Type="VI" URL="/../Documents and Settings/ggatling/My Documents/p4depot/LabVIEW 8.5/applications/LP_ONESHOT/user.lib/gfitsio/gfitsio-refnum.ctl"/>
 			<Item Name="gfitsio.lvlib" Type="Library" URL="../SubVIs/gfitsio/gfitsio.lvlib"/>
-			<Item Name="Global.vi" Type="VI" URL="../SubVIs/Event/Global.vi"/>
 			<Item Name="Globals.vi" Type="VI" URL="../SubVIs/Globals.vi"/>
 			<Item Name="Guide_error_histo.vi" Type="VI" URL="../SubVIs/Math&amp;Array/Guide_error_histo.vi"/>
 			<Item Name="GuideRate.vi" Type="VI" URL="../SubVIs/GUI/GuideRate.vi"/>
@@ -472,7 +468,6 @@
 			<Item Name="wcs_rotate_reverse.vi" Type="VI" URL="../SubVIs/coords/wcs_rotate_reverse.vi"/>
 			<Item Name="wcssph2xy.vi" Type="VI" URL="../SubVIs/coords/wcssph2xy.vi"/>
 			<Item Name="wcsxy2sph.vi" Type="VI" URL="../SubVIs/coords/wcsxy2sph.vi"/>
-			<Item Name="Write Characters To File (no popup).vi" Type="VI" URL="../SubVIs/vi.lib/Write Characters To File (no popup).vi"/>
 			<Item Name="Write Characters To File (no popup).vi" Type="VI" URL="../SubVIs/vi_lib/Write Characters To File (no popup).vi"/>
 			<Item Name="write_focus_file.vi" Type="VI" URL="../SubVIs/data_logging/write_focus_file.vi"/>
 			<Item Name="WriteFalconProcessed.vi" Type="VI" URL="../SubVIs/data_logging/WriteFalconProcessed.vi"/>
