@@ -42,6 +42,7 @@
 			<Property Name="Name" Type="Str">Ouest</Property>
 			<Property Name="SampTimingType" Type="Str">On Demand</Property>
 		</Item>
+		<Item Name="Set ESP301 Rot.vi" Type="VI" URL="../SubVIs/GUI/Set ESP301 Rot.vi"/>
 		<Item Name="sons.vi" Type="VI" URL="../SubVIs/Son/sons.vi"/>
 		<Item Name="Sud" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
@@ -279,6 +280,11 @@
 			<Item Name="Draw_star.vi" Type="VI" URL="../SubVIs/GUI/Draw_star.vi"/>
 			<Item Name="Enregistrement des parametres.vi" Type="VI" URL="../SubVIs/GUI/Enregistrement des parametres.vi"/>
 			<Item Name="Error_Format.vi" Type="VI" URL="../SubVIs/Misc/Error_Format.vi"/>
+			<Item Name="ESP301_Close.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Close.vi"/>
+			<Item Name="ESP301_Home.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Home.vi"/>
+			<Item Name="ESP301_Open.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Open.vi"/>
+			<Item Name="ESP301_PA.vi" Type="VI" URL="../SubVIs/Newport/ESP301_PA.vi"/>
+			<Item Name="ESP301_Read_Position.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Read_Position.vi"/>
 			<Item Name="ETAB_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETAB_decodeur.vi"/>
 			<Item Name="ETCS_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETCS_decodeur.vi"/>
 			<Item Name="ExceptionStacker.vi" Type="VI" URL="../SubVIs/Newmark/ExceptionStacker.vi"/>
@@ -355,6 +361,9 @@
 			<Item Name="Newmark-Status-All.vi" Type="VI" URL="../SubVIs/Newmark/Newmark-Status-All.vi"/>
 			<Item Name="Newmark-Stop.vi" Type="VI" URL="../SubVIs/Newmark/Newmark-Stop.vi"/>
 			<Item Name="Newmark-Wait4Flag.vi" Type="VI" URL="../SubVIs/Newmark/Newmark-Wait4Flag.vi"/>
+			<Item Name="Newport.ESP301.CommandInterface" Type="Document" URL="Newport.ESP301.CommandInterface">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
