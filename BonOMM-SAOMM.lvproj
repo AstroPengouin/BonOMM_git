@@ -282,9 +282,12 @@
 			<Item Name="Error_Format.vi" Type="VI" URL="../SubVIs/Misc/Error_Format.vi"/>
 			<Item Name="ESP301_Close.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Close.vi"/>
 			<Item Name="ESP301_Home.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Home.vi"/>
+			<Item Name="ESP301_MD.vi" Type="VI" URL="../SubVIs/Newport/ESP301_MD.vi"/>
+			<Item Name="ESP301_MF.vi" Type="VI" URL="../SubVIs/Newport/ESP301_MF.vi"/>
 			<Item Name="ESP301_Open.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Open.vi"/>
 			<Item Name="ESP301_PA.vi" Type="VI" URL="../SubVIs/Newport/ESP301_PA.vi"/>
 			<Item Name="ESP301_Read_Position.vi" Type="VI" URL="../SubVIs/Newport/ESP301_Read_Position.vi"/>
+			<Item Name="ESP301_STOP.vi" Type="VI" URL="../SubVIs/Newport/ESP301_STOP.vi"/>
 			<Item Name="ETAB_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETAB_decodeur.vi"/>
 			<Item Name="ETCS_decodeur.vi" Type="VI" URL="../SubVIs/Comm/ETCS_decodeur.vi"/>
 			<Item Name="ExceptionStacker.vi" Type="VI" URL="../SubVIs/Newmark/ExceptionStacker.vi"/>
