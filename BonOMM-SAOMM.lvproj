@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{57FD806D-D9F1-4F49-B7D2-1C5B1F9716DA}" Type="Ref">/My Computer/Bibliothèque sans titre 1.lvlib/réf_ESP301</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -11,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Bibliothèque sans titre 1.lvlib" Type="Library" URL="../SubVIs/Newport/Bibliothèque sans titre 1.lvlib"/>
 		<Item Name="BonOMM-SAOMM.vi" Type="VI" URL="../BonOMM-SAOMM.vi"/>
 		<Item Name="cfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/cfitsio.dll"/>
 		<Item Name="Est" Type="NI-DAQmx Task">
@@ -25,6 +23,7 @@
 		</Item>
 		<Item Name="favicon.ico" Type="Document" URL="../favicon.ico"/>
 		<Item Name="gfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/gfitsio.dll"/>
+		<Item Name="Keller_pression_vessie_subpanel.vi" Type="VI" URL="../SubPanels/Keller_pression_vessie_subpanel.vi"/>
 		<Item Name="msg_box.vi" Type="VI" URL="../SubVIs/Misc/msg_box.vi"/>
 		<Item Name="Nord" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
