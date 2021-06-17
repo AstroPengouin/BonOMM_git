@@ -45,7 +45,6 @@
 		</Item>
 		<Item Name="Set ESP301 Rot.vi" Type="VI" URL="../SubVIs/GUI/Set ESP301 Rot.vi"/>
 		<Item Name="sons.vi" Type="VI" URL="../SubVIs/Son/sons.vi"/>
-		<Item Name="SubPanel_test.vi" Type="VI" URL="../SubVIs/Newport/SubPanel_test.vi"/>
 		<Item Name="Sud" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
 			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
