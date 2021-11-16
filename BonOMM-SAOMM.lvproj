@@ -22,8 +22,10 @@
 			<Property Name="SampTimingType" Type="Str">On Demand</Property>
 		</Item>
 		<Item Name="favicon.ico" Type="Document" URL="../favicon.ico"/>
+		<Item Name="GetPathFromTimeStamp2.vi" Type="VI" URL="../SubPanels/GetPathFromTimeStamp2.vi"/>
 		<Item Name="gfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/gfitsio.dll"/>
 		<Item Name="Keller_pression_vessie_subpanel.vi" Type="VI" URL="../SubPanels/Keller_pression_vessie_subpanel.vi"/>
+		<Item Name="Log_pression_vessie.vi" Type="VI" URL="../SubPanels/Log_pression_vessie.vi"/>
 		<Item Name="msg_box.vi" Type="VI" URL="../SubVIs/Misc/msg_box.vi"/>
 		<Item Name="Nord" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
