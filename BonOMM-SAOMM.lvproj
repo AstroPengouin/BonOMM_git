@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="BonOMM-SAOMM.vi" Type="VI" URL="../BonOMM-SAOMM.vi"/>
 		<Item Name="cfitsio.dll" Type="Document" URL="../SubVIs/gfitsio/cfitsio.dll"/>
+		<Item Name="Entre_24_0.vi" Type="VI" URL="../SubVIs/Misc/Entre_24_0.vi"/>
 		<Item Name="Est" Type="NI-DAQmx Task">
 			<Property Name="\0\ChanType" Type="Str">Digital Output</Property>
 			<Property Name="\0\DO.InvertLines" Type="Str">0</Property>
