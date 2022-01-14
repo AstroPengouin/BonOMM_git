@@ -328,6 +328,7 @@
 			<Item Name="InitProgressLauncher.vi" Type="VI" URL="../SubVIs/GUI/InitProgressLauncher.vi"/>
 			<Item Name="InstrChoice.vi" Type="VI" URL="../SubVIs/GUI/InstrChoice.vi"/>
 			<Item Name="InstrChoice2.vi" Type="VI" URL="../SubVIs/GUI/InstrChoice2.vi"/>
+			<Item Name="InstrSwitch.vi" Type="VI" URL="../SubVIs/GUI/InstrSwitch.vi"/>
 			<Item Name="InverseImg.vi" Type="VI" URL="../SubVIs/fits/InverseImg.vi"/>
 			<Item Name="Join-Data.vi" Type="VI" URL="../SubVIs/Join-Data.vi"/>
 			<Item Name="line2array.vi" Type="VI" URL="../SubVIs/meteo/line2array.vi"/>
